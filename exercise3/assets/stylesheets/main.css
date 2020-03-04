@@ -1,0 +1,12 @@
+.box{
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    border: 10px solid crimson;
+    margin: 30px;
+    background: greenyellow;
+    display: inline-block;
+    outline: 10px solid aqua;
+    box-shadow: 20px 20px black,-20px 20px black,20px -20px black,-20px -20px black;
+    box-sizing: border-box;
+}
